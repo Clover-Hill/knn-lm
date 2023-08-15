@@ -130,3 +130,7 @@ data-bin/
 
 # Experimental Folder
 experimental/*
+
+# Download Data
+*.zip
+*.tokens
